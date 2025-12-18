@@ -1,4 +1,5 @@
 Oracle Destekli Akıllı Veri Analitiği ve Görselleştirme Projesi
+
 Bu proje, Ford Otosan ve Kodluyoruz iş birliğiyle düzenlenen Veri Bilimi ve Yapay Zeka Atölyesi kapsamında, 4 kişilik ekibimiz tarafından geliştirilen bitirme projesidir.
 Projemiz, ham verinin Oracle veritabanı güvencesiyle saklanmasından, Yapay Zeka ile analiz edilmesine ve Gelişmiş Görselleştirme teknikleriyle stratejik içgörülere dönüşmesine kadar uzanan uçtan uca (end-to-end) bir veri yolculuğunu kapsar.
 
